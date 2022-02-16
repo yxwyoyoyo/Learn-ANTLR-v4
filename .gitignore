@@ -24,3 +24,12 @@ hs_err_pid*
 
 # Project Specific
 *.pdf
+
+# ANTLR v4
+**/.antlr
+*.tokens
+*.interp
+*Lexer.java
+*Parser.java
+*Listener.java
+*Visitor.java
