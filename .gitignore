@@ -23,6 +23,7 @@
 hs_err_pid*
 
 # Project Specific
+!lib/antlr-*-complete.jar
 *.pdf
 
 # ANTLR v4
